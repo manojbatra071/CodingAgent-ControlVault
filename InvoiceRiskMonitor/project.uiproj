@@ -1,0 +1,6 @@
+{
+  "Name": "InvoiceRiskMonitor",
+  "ProjectType": "Process",
+  "Description": "Config-driven invoice risk monitoring automation",
+  "MainFile": "ProcessInvoices.cs"
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "ProcessInvoices.cs",
+      "uniqueId": "b462cb14-34d7-4a3b-9a99-c0da98f3db3f",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_ConfigPath": {
+            "type": "string",
+            "x-default-expression": "\"Config.xlsx\"",
+            "default": "Config.xlsx"
+          }
+        },
+        "required": [
+          "in_ConfigPath"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/operate",
+  "contentType": "Process",
+  "projectId": "3ba4af90-931f-42bd-9a4d-9d57b40102cd",
+  "main": "ProcessInvoices.cs",
+  "dependencies": {
+    "UiPath.System.Activities.Runtime": "[26.2.6]"
+  },
+  "targetFramework": "Windows",
+  "runtimeOptions": {
+    "isAttended": false,
+    "requiresUserInteraction": false,
+    "robotVersion": "26.0.194"
+  },
+  "designOptions": {
+    "projectProfile": "Development",
+    "fileInfoCollection": []
+  }
+}

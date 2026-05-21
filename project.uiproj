@@ -1,0 +1,6 @@
+{
+  "Name": "CodingAgent-1",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
